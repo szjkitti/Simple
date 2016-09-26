@@ -1,0 +1,7 @@
+Követelmények:
+1. A programunk környezete: pl milyen informatikai helyzetet használ a szomszéd virágos. Jelenlegi helyzet.
+*2. Cél: Amit a megrendelõ megmondott, h mit kell csinálni.
+3. Környezeti feltételek: törvényi szabályozások pl megrendelõnek is vannak feletesei akik szabályozzák a projektet.
+4. Jelenlegi folyamatok.
+*5. Megvalósítandó folyamatok.
+*6. Követelmény lista.
