@@ -5,3 +5,36 @@ Követelmények:
 4. Jelenlegi folyamatok.
 *5. Megvalósítandó folyamatok.
 *6. Követelmény lista.
+
+
+B csapat: Balázs Boglárka, Horváth Adrienn, Szendi-Joó Kitti
+
+Simple 
+
+Mi egy honlap elkészítését választottuk, a PHP nyelv használatával.
+Egy valós honlapot szeretnénk új szemszögbõl megvilágítani és
+kibõvíteni újabb funkciókkal és ez nem más mint a McDonald's honlapja.
+Célunk, hogy az új funkciót, amit kitaláltunk, ami nem más mint az online
+rendelés és a házhozszállítás, megszerettessük a célközösséggel, valamint 
+egy újabb, felhasználóbarátabb és jól kezelhetõ, teljesen új koncepciójú 
+oldalt hozzunk létre.
+
+Megvalósításra váró feladatok:
+-Igények felmérése
+-Felhasználó felület megtervezése, aktiválása
+-Könnyen kezelhetõség elérése
+-Részletes információnyújtás a szolgáltatásról
+-Termékleírások
+-Az új szolgáltatás beválása
+-Emberek felvétele a futárkodáshoz
+
+Fontos szempontok egy jó honlap létrehozásához:
+-Könnyû kezelhetõség
+-Felhasználó barát
+-Átlátható oldal
+-Regisztráció lehetõséggel bõvülõ szolgáltatások
+-Információnyújtás
+-Táplálkozási tanácsok
+-Hatékony és hibátlan mûködés.
+
+Változtatás jogát fenntartjuk!
