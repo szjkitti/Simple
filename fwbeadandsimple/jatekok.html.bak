@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Játékok</title>
+ </head>
+ <body>
+    <h1 style=" text-align : center" > Játékok</h1>
+	<div align="center";  class="kep" >
+	 <img src="jatekok.png" alt="jatekok">
+	</div>
+
+    <div> <h1  style="text-align:left" color="#6633ff">
+		 <a href="simplebeadando.html"  > <strong>Vissza a főmenübe </strong></a> </h1>
+	 </div>
+<body bgcolor="orange"> </body>
+
+ </body>
+</html>

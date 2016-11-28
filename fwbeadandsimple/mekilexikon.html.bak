@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Mekilexikon</title>
+ </head >
+
+<h1 style="text-align:center "> Mekilexikon </h1>
+ <body bgcolor="orange">
+
+ 
+<h2> Melyik volt a legelső szendvicsetek? </h2>
+ <p>A McDonald's történetében 1968-ban készült el az első szendvics, amelyet Jim Deligatti, a McDonald's hálózat egyik franchise partnere alkotott meg. Ez az emeletes hamburger nem más, mint a BigMac, mely azóta a világ legnépszerűbb szendvicsévé vált.</p>
+
+ <h2> A McNuggets a csirke melyik részéből készül? És hogyan? </h2>
+  <p> A Chicken McNuggets készítéséhez csirkemell filét használunk, amelyet darálás, formázás és panírozás után olajban sütünk ki.</p>
+  <p>
+     <video width="400" controls >
+  <source src="hogyanmcnuggets.mp4" type="video/mp4">
+  <source src="hogyanmcnuggets.ogg" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video>
+
+<p>
+Videó forrása: 
+<a href="https://www.youtube.com/watch?v=FbZ4lZQ7tMs" target="_blank">Hogyan készül a McNuggets?</a>.
+  
+  </p>
+
+  <h2> Miből és hogyan készül a marhahúspogácsa? </h2>
+   <p>Marhahúspogácsánk 100% darált marhahúsból készül, csak a sütés után fűszerezzük egy csipetnyi sóval és borssal.  </p>
+   <p>
+      <video width="400" controls >
+  <source src="marhahuspogi.mp4" type="video/mp4">
+  <source src="marhahuspogi.ogg" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video>
+
+<p>
+Videó forrása: 
+<a href="https://www.youtube.com/watch?v=V3kICVTJ__0" target="_blank">Hogyan készül a marhahúspogácsa? </a>
+</p>
+
+<h2> Mennyire egészségesek a McDonald's ételei? </h2>
+<p>Mint minden táplálék, a McDonald’s termékei is részei lehetnek egy változatos, kiegyensúlyozott étrendnek. Kínálatunk kialakításánál törekszünk arra, hogy minél többféle vásárlói igényt ki tudjunk elégíteni, és mindenki megtalálja a számára leginkább megfelelő termékeket. Hogy ez kinek melyik terméket jelenti, az persze sok tényezőtől függ, többek között ilyenek a nem, a kor, az életmód, fizikai aktivitás szintje, esetleg speciális diétás igények, vagy egészségi állapot. Ezért is fontos, hogy a vásárlás során mindenki maga döntse el, hogy mikor, melyik termékünket választja a kínálatból. Mi a választék biztosítása mellett azzal tudunk ehhez hozzájárulni, hogy ételeink tápértékéről és allergén összetevőiről több helyen (a tálcabetéteken és a honlapon) is részletes tájékoztatást adunk.</p>
+
+<h2> Mi van a BigMac szószban? </h2>
+<p> Mindenki nagy kedvence és mindenki kíváncsi rá! Íme az összetétel: majonéz alapú szósz mustárral és édes uborkakockával fűszerezve. </p>
+
+<h2> Hogyan készül a sajtburger? </h2>
+<p> A méltán népszerű sajtburgerünk receptje a következő: a megpirított zsemlébe ketchupot és mustárt adagolunk szósz nyomóból, majd hozzáadjuk az apróra vágott hagymát és az egy szelet savanyú uborkát. Az utolsó előtti lépés egy szelet cheddar sajt. Végül jön a 100% marhahús, amihez csak egy csipet sót és borsot adunk. </p>
+
+<h2> Miért néz ki a burger másként a valóságban, mint a képeken? </h2>
+<div  align="center" >
+	 <img width="30% "height="30%" src="valosag.png" alt="valosag.png">
+	</div>
+
+<p> A hirdetésekben szereplő szendvicsek és a valóságban kiszolgált szendvicsek ugyanazok, hiszen pontosan ugyanazokat az alapanyagokat és összetevőket, azonos mennyiségben és azonos arányban tartalmazzák. Ez nagyon fontos, hiszen a kép célja, hogy arra pillantva a vendég tudja, miből áll a szendvics. Ami mégis más, az a megjelenítés, hiszen a tájékoztatás érdekében a képen olyan összetevőket is láthatóvá kell tennünk, amelyek egyébként a szendvics belsejében helyezkednek el. Például az uborka szelet, vagy a szószok, amelyek a fotókon mindig kívül a salátalevélen vannak, hogy Te lásd őket. Természetesen törekszünk arra, hogy a termékeket előnyösen bemutató, ízléses képek készüljenek, jó megvilágítással, szép háttérrel, esetleg az ízvilágot hangsúlyozó kiegészítőkkel.</p>
+
+<h2> Mi van a mekis zsemlében?</h2>
+<p align="center">  
+      <video width="400" controls >
+  <source src="mekiszsemle.mp4" type="video/mp4">
+  <source src="mekiszsemle.ogg" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video>
+
+<p>
+Videó forrása: 
+<a href="https://www.youtube.com/watch?v=31m7gXyKUfY" target="_blank">Mi van a mekis zsemlében? </a>
+</p>
+
+ <div <h1 style="text-align:center ; class="vissza">
+		 <a href="simplebeadando.html" target="keret" class="cimek">Vissza a főmenübe</a>
+	 </div>
+  
+ </body>
+</html>

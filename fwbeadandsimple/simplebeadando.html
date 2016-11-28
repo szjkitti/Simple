@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  
+ </head>
+ <body>
+
+<script type='text/javascript' language='Javascript'>
+<!-- A popup lecsúszásának sebessége -->
+	var div = 1
+	
+	var sliderEnabled = true;
+	function scrFol()
+	{
+		var ad = document.getElementById( 'slider' );
+		var dPos = ( document.all ) ? document.body.scrollTop : window.pageYOffset;
+
+		if ( ( dPos == 0 ) && ( document.all ) )
+			dPos = document.documentElement.scrollTop;
+
+		dPos += 50;
+		var cPos = parseInt( ad.style.top );
+		if ( cPos == 0 )
+			cPos = dPos-1000;
+
+		var posDif = dPos-cPos;
+
+		if ( ( ad.style.display == 'none' ) && ( sliderEnabled ) )
+			ad.style.display = 'block';
+
+		if ( posDif > 0 )
+			ad.style.top = (cPos+Math.ceil(posDif/div))+'px';
+		else if ( posDif < 0 )
+			ad.style.top = (cPos+Math.floor(posDif/div))+'px';
+
+		if ( sliderEnabled )
+			setTimeout( 'scrFol()', 20 );
+	}
+	function closeFollowSlider()
+	{
+		sliderEnabled = false;
+		document.getElementById( 'slider' ).style.display = 'none';
+	}
+
+<!-- A popup lecsúszásának késleltetése -->
+setTimeout( 'scrFol()', 2000 );
+</script>
+
+
+<div id="slider" align="center" valign="top" style="filter: progid:DXImageTransform.Microsoft.Shadow(color=#000000,direction=135,strength=8); border:5px solid #ff6666; z-index:999; display:none; top:0px; position:absolute; top:0px; left:410px; padding:20px; width:470px; background:#ffff66">
+<div align="center"><a href="javascript:closeFollowSlider();"><IMG src="bohoc.jpg" border=3 style="width:280px; height:228"></a></div>
+ 
+<h1>Üdvözöllek a honlapunkon! </h1>
+
+<h5>Ha beszeretnél lépni az oldalunkra akkor csak kattints a képre</h3>
+	<input  type="submit"  value="Regisztáció">
+</div >
+
+<title>MCDonald's</title>
+
+<div style="float:left">
+<img src="mcdonalds-logó.png" alt="Mc" style="270;height:140px;" > 
+</div>
+<div>
+<h1 style=" color:#000000; font-size:500% " >&nbsp;&nbsp;&nbsp;Mc Donald's  </h1>
+</div>
+
+
+ 
+<div style=" float:left;"
+<form action="action_page.php"> <br>
+ &nbsp; Felhasználónév:&nbsp;<br>
+  <input type="text" name="" value="Adjameg a nevét">
+  <br>
+
+ Jelszó:&nbsp;<br>
+  <input type="password" name="jelszo" value="jelszo">&nbsp;&nbsp;
+  <br><br>
+  <input type="submit" value="Belépés">
+
+  <h4><a href="regisztarcio.html">Regisztráció</a></h4>
+</form>
+</div>
+
+
+
+<style type="text/css">
+#menu, #menu ul {
+list-style: none;
+margin: 20px 0 0 10px;
+padding: 0;
+}
+#menu a:link,
+#menu a:active,
+#menu a:visited {
+display: inline;
+font-size:200% ;
+color:#006600;
+}
+#menu a:hover{
+}
+#menu li {
+float: left;
+} 
+#menu li ul {
+float: left;
+position: absolute;
+left: -9999em;
+text-align: left;
+}
+#menu li ul li {
+float: none;
+display: block;
+}
+#menu li:hover ul,
+#menu li.sfhover ul {
+left: auto;
+display: block;
+margin: 0px;
+padding: 40px;
+
+}
+</style>
+
+   </head>
+   <body>
+<div>
+<meta charset="UTF-8">
+
+   <ul id="menu">
+        <li><a href="simplebeadando.html">&nbsp;&nbsp;&nbsp;Kezdőlap&nbsp;&nbsp; </a>
+       <ul id="submenu">
+
+</ul></li>
+
+        <li  ><a  href="" >Termékek &nbsp;&nbsp; </a>
+       <ul id="submenu">
+<li><a href="szenvicsek.html">Szendvicsek</a></li> 
+<li><a href="salatak.html">Saláták</a></li>
+<li><a href="uditok.html">Üdítők</a></li>
+<li><a href="desszertek.html">Desszertek</a></li>
+<li><a href="menuk.html">Menük</a></li>
+<li><a href="kavek.html">Kávék</a></li>
+<li><a href="jatekok.html">Játékok</a></li>
+</ul></li>
+
+        <li><a href="">Rólunk&nbsp;&nbsp;</a>
+       <ul id="submenu">
+<li><a href="tortenet.html">Történet</a></li> 
+<li><a href="mekilexikon.html">Mekilexikon</a></li>
+<li><a href="rendezvenyek.html">Rendezvények</a></li>
+            
+</ul></li>
+       </ul>
+
+   <ul id="menu">
+        <li><a href="ettermeink.html">Éttermeink &nbsp;&nbsp;</a>
+       <ul id="submenu">
+
+</ul></li>
+
+   <ul id="menu">
+        <li><a href="hazhozszallitas.html">Házhozszállítás&nbsp&nbsp; </a>
+       <ul id="submenu">
+
+</ul></li>
+
+
+   <ul id="menu">
+        <li><a href="kapcsolatok.html">Kapcsolat  <br></a>
+       <ul id="submenu">
+
+</ul></li>
+
+</div >
+
+<div style="text-align:bottom">
+
+<h2 style=" color:#000000"> <br><br>  Hírek:</h2>
+  <p> különleges ajánlataink + képek 
+
+  </p>
+ 
+</div>
+<body bgcolor="orange"> </body>
+
+ </body>
+
+</html>
+
+
+
