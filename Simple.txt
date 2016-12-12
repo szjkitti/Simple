@@ -1,0 +1,78 @@
+Eszterházy Károly Fõiskola
+Gazdaság- és társadalomtudományi kar
+
+
+
+
+
+McDonald’s
+I’ m lovin it.
+Házhozszállítás
+Készítette: Szendi-Joó Kitti
+Balázs Boglárka
+Horváth Adrienn
+
+Tartalomjegyzék
+Tartalomjegyzék	2
+McDonald’s napjainkig	3
+Korszerûsítés	3
+Hasznos információk: Az adatkezelés jogalapja:	3
+Jellenlegi folyamat	4
+Megvalósítandó feladatok	4
+Követelménylista	4
+
+McDonald’s napjainkig
+A McDonald’s az elsõ hazai franchise hálózat megalkotója és egyben a hazai Franchise Szövetség alapító tagja. Az elsõ franchise rendszerben mûködõ éttermünket nem sokkal a magyarországi megjelenés után, 1990-ben, Kispesten nyitott meg. Hazai éttermek jelentõs részét ma már franchise rendszerben üzemeltetjük. 21 fõs franchise partnerek körünk az éttermek több mint felét üzemelteti országszerte.
+Sikerünk arra az alapelvre épül, hogy ha valaki betér egy McDonald’s-ba Mumbai-ban, vagy Frankfurtban ugyanazzal az egyöntetû minõséggel, kiszolgálással és tisztasággal találkozzon. Emellett minden partnerünket támogatjuk és buzdítjuk a kreativitásra és a kezdeményezõkészségre a termékfejlesztés és marketing terén.
+Vállalatunk jó hírnevét a három legfontosabb területen – minõség, kiszolgálás, tisztaság– támasztott szigorú követelmények alapozták meg, így ezek betartására a franchise rendszerben mûködõ éttermeinkben is kiemelten odafigyelünk.
+
+1
+Korszerûsítés
+A legnagyobb is elkezdõdik valahol, vállalatunk Magyarországon 1988 óta van jelen. A világ legszebb McDonald's éttermeként számon tartott egységünket a Nyugati pályaudvarnál, az Eiffel tervezte épületegyüttesben. Pár év elteltével elmondható, hogy minden 50.000 fõvárosi lakosra jut egy McDonald's étterem világszerte. Sikerünk az állandó fejlõdésnek tudható be. Már több mint 25 éve fogyaszthatunk „mekis kaját” itthon több mint 100 étteremben országszerte. A következõ nagy innovációs lépés az étterembõl való étel házhozszállítás. A vásárlónak kötelezõ a regisztráció, ez után hozzáférhet a házhozszállítás további opcióhoz. Elérhetõvé válljon az új honlapunk egy egyszerû címen illetve telefonon is könnyen kezelhetõ felületen. A kedves vendégek számtalan kínálatból választhassanak. A vendég számára megfelelõ élelmiszer(ek) kiválasztása egyszerû opciókkal történjen. A fizetési feltételek az információfülön lévõ tájékoztatóban legyenek feltüntetve, lehetséges legyen a bankkártyával illetve a személyes átvétel utáni fizetés. Akik valamilyen érzékenységben szenvednek azok könnyen értesüljenek az allergént tartalmazó termékekrõl.
+Hasznos információk:
+Az adatkezelés jogalapja:
+Az adatkezelés során figyelembe vesszük a vonatkozó hatályos jogszabályokat, illetve a fontosabb nemzetközi ajánlásokat, különös tekintettel az alábbiakra: 
+
+*  A személyes adatok védelmérõl és a közérdekû adatok nyilvánosságáról szóló 1992. évi LXIII. törvény; 
+
+*  Az egyének védelmérõl a személyes adatok gépi feldolgozása során szóló 1998. évi VI. törvény; 
+
+*  A hírközlésrõl szóló 2001. évi XL. törvény VIII. fejezetében foglalt rendelkezések; A hírközlési szolgáltató adatkezelésének különös feltételeirõl, a hírközlési szolgáltatások adatbiztonságáról, valamint az azonosító-kijelzés és hívásátirányítás szabályairól szóló 253./2001. (XII. 18.) kormányrendelet; 
+
+*  Az elektronikus kereskedelemrõl szóló 2001. évi CVIII. törvény.
+
+A kezelt adatok köre:
+Az szolgáltatás igénybevételéhez szükséges megadni a következõket: név, cím, e-mail, telefonszám.
+
+Személyes adatok törlése, módosítása:
+A honlapon keresztül rendelkezésre bocsátott személyes adatairól bármikor tájékoztatást kérhet, illetve kérheti azok törlését, módosítását. Ez a következõ csatornákon keresztül történhet: Weboldalunkon illetve ügyfélszolgálatunkon keresztül e-mailben, telefonon.
+
+
+Jellenlegi folyamat 
+Jellenlegi helyzet szerint a vásárló betér az étterembe sorba áll. Ha odaért a pénztárhoz kiválasztja a számára megfelelõ terméket vagy termék kombinációt. A pénztáros felveszi a rendelést továbbítja a konyhába, ott hozzákezdenek az elkészítéshez. Amint elkészült az étel a konyháról továbbítják a pénztáros felé. A pénztáros átadja a vevõ fogadja a terméket és vagy termékkombinációt, majd fizet. Fogyaszthatja helyben vagy kérheti elvitelre.
+Megvalósítandó feladatok
+Követelménylista
+
+Fontos, hogy jövõbeni rendelõink, képet kapjanak az ételekrõl, amit esetleg rendelni szeretnének majd, kedvükre válogathassanak akár interneten, akár mobil alkalmazáson keresztül, sorban állás és várakozás nélkül.
+Tegye lehetõvé a bankkártyás fizetést is, házhozszállítás esetén. Megrendelésnél adja ki ezt a lehetõséget is.
+Követelmény, hogy a megrendelõ ugyanazt a minõséget kapja házhozszállítás esetén is, mint az éttermekben.
+A házhoz szállítás bizonyos kilométerek között vagy meghatározott összegû rendelés felett legyen ingyenes (pl: 5000 Ft felett)
+A kedvezményes kuponokat házhozszállítás során is fellehessen használni.
+
+A rendszer fontos tulajdonságai:
+- áttekinthetõ
+- keresés funkció, ha a sok termék között a megrendelõ nem találná amit keres, csak beírhassa és kiadja a keresni kívánt ételt.
+- pontosan feltüntett összeg
+- regisztráció szükséges: itt beírja a leendõ vásárló a személyes adatait és azok már benne lesznek a rendszerben, így nem kell többet ezzel foglalkoznia, akkor rendel amikor szeretne
+Kivételes helyzetek:
+- nincs internetkapcsolat, ezért telefonon is lehet rendelni.
+
+ModulIDNévV.Kifejtés
+
+
+
+
+
+2
+
+
