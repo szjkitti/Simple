@@ -1,0 +1,106 @@
+Rendszerterv
+----------------------------------------
+
+Konceptuális:
+----------------------------------------
+
+	-Mit?
+	------------
+		- Egy cég számára csináltunk kiváncsiak vagyunk az emberek véleményére
+					   
+	
+	Miért?
+	------------	
+		- Egy vásárlók igényeit szeretnénk kielégíteni.
+
+Részletes:
+----------------------------------------
+	-Mit?
+	------------
+		- Egy meglévõ oldalt szeretnénk továbbfejleszteni. Különbözõ termékeket szeretnénk bemutatni az oldalunkon. Különbözõ kalóriákat is felsorolunk hogy könnyebb legyen az egészséges életmód bemutatása.
+
+	-Miért?
+	------------
+		- A vásárlók igényeit szeretnénk kielégíteni, ugyanis minden vállalatnak szüksége van dolgozói nyilvántartásra.
+	 	  A cégek minden dolgozójukról szeretnének minden információt tárolni, valamint azokat a késõbbiekben 
+		  visszakeresni. A sikeres projekt elvégzése után a programunkat újabb funkciókkal tudjuk bõvíteni ezáltal
+		  pedig más vállalatok is megkereshetnek minket újabb munkák elvégzése miatt.
+
+	-Hogyan?
+	------------
+		- Iskolai fejlesztõcsapat munka keretein belül
+		  álltunk neki a programnak.
+
+	-Mikor?
+	------------
+		- A 2016/2017-es tanév elsõ félévében.
+
+
+Fizikai vetületek:
+------------------------------------
+
+	Vásárolt softwarekomponensek:
+	---------------------------------
+		-Használt, vásárolt softwarekomponensek
+			
+			
+		--VisualStudio 2012:  programozási nyelv, környezet, ingyenes tanulói fiók
+						
+		--GitHub: interneten publikáláshoz és a csapatmunka része
+
+		--MS office: a specifikációk, rendszerkövetelmények és egyéb dokumentációk elkészítése, ingyenes tanulói fiók
+			
+		--Windows operációs rendszer: ingyenes iskolai verzió
+			
+		--HTML, PHP, phpadmin felülete
+
+
+	Hardware és hálózati topológia:
+	------------------------------------------------
+		
+		-Három számítógép
+		-Hozzájuk tartozó perifériák
+		-Aktív internet kapcsolat legalább 1mb/s 
+		-Adatbázis: phpmyadmin
+		
+Logikai vetületek:
+---------------------------
+
+	Követelmények:
+	------------------
+	
+	- A törvény betartásának érdekében minden adatbázisban lévõ adatot csak a vállalati mukánk során használjuk föl,
+	  semmilyen magán célra nem fogjuk használni azokat. A képek felhasználásához minden adatbázisban lévõ személy
+	  beleegyezésével történt.
+	- A munkánk során felhasznált weboldalak:
+	  Minden olyan program mely ezen szoftver elkészítését szolgálta az is ingyenesen felhasználható.
+		- GitHub, Visual Studio angol weboldala, ahonnan a különbözõ funciókat beépítettük munkánk során.
+		- Ezen kívül az adatbázis megvalósításához az SQLite programhoz kerestünk különbözõ rövid leírásokat, melyekkel
+		  könnyebben megértjük annak mûködését 
+	- Nyílt forráskódúság, azaz bárki felhasználhassa a kódot de ha ezt megteszi mindenképpen fel kell tüntetnie a mi
+	  nevünket is illetve az eredeti kód elérhetõségét. (Ezt a report linket).
+
+	- A program nyílt forráskódú licenc ami nem egyenlõ a szabad szoftveres licenccel. Ennek következményében az alábbi
+	  szabályozások érvényesek.
+
+	Pusztán az a tény, hogy a szoftver kódja megismerhetõ, nem minõsíti a szoftvert szabad forráskódúvá, csak nyílt
+	forráskódúvá. Ebben az esetben a szoftver licenc kódját nyilvánosságra hozzuk, és az alábbi jogosultságokat
+	engedéjezzük:
+	-felhasználhatóság, futtathatóság
+	-tanulmányozható 
+	-mûködését megvizsgálhatja bárki, az adott forráskód alapján
+	-módosítható, amennyiben erre kerül sor akkor fel kell tüntetnie az eredeti forráskódot és azok szerzõit, eután pedig a 
+	módosítást követõen a szerzõ nevének feltüntetésével publikálhatja a kódot
+
+	A módosítás alapvetõ következményei:
+	------------------------------------------------------
+
+ 		a) A program bármilyen céllal történõ futtatásának, felhasználásának joga.
+ 		b) A szabad tanulmányozhatóság és igény szerinti módosíthatósághoz való jog, valamint jog 
+		arra, hogy a szoftvert a szükségletekhez igazíthassák. Ennek elõfeltétele a forráskódhoz való hozzáférhetõség.
+ 		c) A másolatok szabad terjeszthetõsége.
+ 		d) A szoftver tökéletesítésének, módosításának joga, valamint ezen javított kiadás – az közösség javát szolgáló–
+		közzétételének joga. Ennek szintén elõfeltétele a forráskód elérhetõsége.
+ 		e) Az eredeti kód szerzõ(inek) feltüntetése.
+		f) Az általunk megírt kódot nem használhatja föl ugy senki, hogy azt bõvítve akarná eladni, vagy bármilyen elõnyhöz
+		jutni
